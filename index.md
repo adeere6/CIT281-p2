@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Learning Objectives:
 
-You can use the [editor on GitHub](https://github.com/adeere6/CIT281-p2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control
+- Gain experience writing and executing non-web server Node.js JavaScript code
+- Practice refactoring JavaScript code
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project elements:
 
-### Markdown
+- Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)
+- Refactor the JavaScript program from the previous project to practice using git and practice refactoring
+- Use git via VSCode
+  - Create and use a .gitignore file
+  - Diff split screen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What I learned:
+In this project I coded many functions and expressions. We also got practice in staging and commiting files using git in the terminal. We were also able to utilize VSCode Explorer tab to create a new files. 
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/83984264/120873252-3f03b900-c556-11eb-941a-195e73ed6311.png)
 
-# Header 1
-## Header 2
-### Header 3
+Here is an example of a function I coded that sorts stings in alphabetical order:
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/83984264/120873318-74100b80-c556-11eb-8b70-40c45a55f888.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adeere6/CIT281-p2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
